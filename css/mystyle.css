@@ -1,0 +1,91 @@
+.navbar-default{
+    margin:20px 0px;
+    border:0;
+}
+
+
+.navbar-li,.navbar-brand{
+    font-size: 25px;
+    margin-left: 30px;
+}
+
+.jumbotron{
+    background: url("../Images/tian.jpg") no-repeat;
+    /* transform: translate3d(0px, 0px, 0px); */
+    background-size: cover;
+    /* background-color:#9785CF; */
+    height: 400px;
+    width: 100%
+}
+
+.jumbotron .container{
+    margin-top: 86px;
+}
+
+.jumbotron h1{
+    text-align: center;
+    /* color: bisque; */
+    color: #240C0C;
+    font-size: 50px;
+}
+
+.jumbotron p{
+    text-align: center;
+    color: #240C0C;
+    font-size: 25px;
+}
+
+.article-format{
+    /*box-shadow: rgb(247, 239, 239) 5px 5px 20px;*/
+    box-shadow: rgb(50, 50, 50) 5px 5px 20px;
+    background-color: #D4CACA;
+    padding: 20px 40px;
+    margin-bottom: 40px;
+}
+
+.article-format:hover{
+    /*box-shadow: rgb(50, 50, 50) 5px 5px 20px;*/
+    box-shadow: rgb(247, 239, 239) 5px 5px 20px;
+}
+
+.cate-format{
+    /*box-shadow: rgb(247, 239, 239) 5px 5px 20px;*/
+    box-shadow: rgb(50, 50, 50) 5px 5px 20px;
+    background-color: #D4CACA;
+    border: 1px solid #DAD4D4;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.the-font {
+    font-family: "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;
+
+}
+
+.category{
+    /* text-align: center; */
+    color: #34495E;
+    padding-left: 30px;
+}
+
+.cate-li{
+    font-size: 20px;
+}
+
+.Page{
+    margin: 20px auto;
+    text-align: center;
+}
+
+.footer{
+    background-color: #9785CF;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+}
+
+hr{
+    border: 1px solid #0FD7F1;
+    margin-bottom: 30px;
+}
